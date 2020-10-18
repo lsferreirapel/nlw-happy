@@ -4,3 +4,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/lsferreirapel/nlw-happy-back.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/lsferreirapel/nlw-happy-mobile.git
